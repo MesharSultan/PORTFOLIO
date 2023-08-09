@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+.odd{
+    background-color: #eeeed2;
+    height: 150px;
+}
+
+.even{
+    background-color: #769656;
+    height: 150px;
+    
+}

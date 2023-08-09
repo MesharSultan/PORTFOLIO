@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+
+
+.div-two{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;     
+}
+
+.div-two > h1 {
+    text-align: center;
+}
+
+.div-two > table {
+    text-align: center;
+    width: 100%;
+}
+
+.div-two td {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;     
+    color: black; 
+    background-color: white;
+}
+
+
